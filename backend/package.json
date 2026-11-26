@@ -1,0 +1,22 @@
+{
+  "name": "museum-ratings-backend",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node local/dev.js",
+    "test": "vitest run --maxWorkers=1",
+    "verify": "vitest run verify/verify.test.js --maxWorkers=1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1177.0",
+    "@aws-sdk/lib-dynamodb": "^3.1177.0"
+  },
+  "devDependencies": {
+    "aws-sdk-client-mock": "^4.1.0",
+    "dynalite": "^4.0.0",
+    "vitest": "^5.1.1"
+  }
+}

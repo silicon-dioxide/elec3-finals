@@ -1,0 +1,202 @@
+{
+  "01": {
+    "title": "Target Successfully Bombed",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "The map Dust II from the video game series Counter-Strike, named \"target successfully bombed\" in reference to the video game.",
+    "image": "image-01.webp",
+    "filename": "audio-01.mp3"
+  },
+  
+  "02": {
+    "title": "Seaside",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "Mountains and a lake, with a small photo of a mountain and a bright-colored plant on the window ledge.",
+    "image": "image-02.webp",
+    "filename": "audio-02.mp3"
+  },
+
+  "03": {
+    "title": "Kebab med tre pepperoni",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A kebab with three green chili peppers.",
+    "image": "image-03.webp",
+    "filename": "audio-03.mp3"
+  },
+
+  "04": {
+    "title": "Bust",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A bust of Marcus Aurelius surrounded by fire.",
+    "image": "image-04.webp",
+    "filename": "audio-04.mp3"
+  },
+
+  "05": {
+    "title": "Match",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A hand holding a match, causing fire on a white cubic gas fireplace.",
+    "image": "image-05.webp",
+    "filename": "audio-05.mp3"
+  },
+
+  "06": {
+    "title": "The Void",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "An angel praying into a void with fire below.",
+    "image": "image-06.webp",
+    "filename": "audio-06.mp3"
+  },
+
+  "07": {
+    "title": "Wasteland",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A view of some wasteland; a rabbit named Herobrine is sitting on the windowsill.",
+    "image": "image-07.webp",
+    "filename": "audio-07.mp3"
+  },
+
+  "08": {
+    "title": "Paradisträd",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "Still life of two plants in pots. \"Paradisträd\" is Swedish for \"jade plant\", which is a common name for the depicted species in Scandinavia.",
+    "image": "image-08.webp",
+    "filename": "audio-08.mp3"
+  },
+
+  "09": {
+    "title": "Albanian",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A man wearing a fez next to a house and a bush. As the name of the painting suggests, it may be a landscape in Albania.",
+    "image": "image-09.webp",
+    "filename": "audio-09.mp3"
+  },
+
+  "10": {
+    "title": "Wanderer",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A version of Caspar David Friedrich's famous painting Wanderer above the Sea of Fog.",
+    "image": "image-10.webp",
+    "filename": "audio-10.mp3"
+  },
+
+  "11": {
+    "title": "Graham",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "King Graham, the player character in the video game series King's Quest. The painting is based on Still Life with Quince, Cabbage, Melon, and Cucumber by Juan Sánchez Cotán.",
+    "image": "image-11.webp",
+    "filename": "audio-11.mp3"
+  },
+
+  "12": {
+    "title": "The pool",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "Some men and women skinny-dipping in a pool over a cube of sorts. There is also an old man resting in the lower-right edge.",
+    "image": "image-12.webp",
+    "filename": "audio-12.mp3"
+  },
+
+  "13": {
+    "title": "Bonjour monsieur Courbet",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "Two hikers with pointy beards seemingly greeting each other. Based on Gustave Courbet's painting The Meeting.",
+    "image": "image-13.webp",
+    "filename": "audio-13.mp3"
+  },
+
+  "14": {
+    "title": "Sunset dense",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A view of mountains at sunset.",
+    "image": "image-14.webp",
+    "filename": "audio-14.mp3"
+  },
+
+  "15": {
+    "title": "The stage is set",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "Scenery from the video game Space Quest I, with the character Graham from the video game series King's Quest appearing twice.",
+    "image": "image-15.webp",
+    "filename": "audio-15.mp3"
+  },
+
+  "16": {
+    "title": "Lemons and owl",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A two-dimensional owl inside a box, next to some lemons. The background is based on the painting An Old Man and his Grandson by Domenico Ghirlandaio.",
+    "image": "image-16.webp",
+    "filename": "audio-16.mp3"
+  },
+
+  "17": {
+    "title": "Oh, The Sea",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A person sitting in a fetal position by a shoreline. The naked person from the original painting has been given clothes.",
+    "image": "image-17.webp",
+    "filename": "audio-17.mp3"
+  },
+
+  "18": {
+    "title": "The Backyard",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A brick archway with two women sitting in the yard. The scenery is based on the painting The Courtyard of a House in Delft by Pieter de Hooch. The figures on the right are from Jacques-Louis David's Oath of the Horatii.",
+    "image": "image-18.webp",
+    "filename": "audio-18.mp3"
+  },
+
+  "19": {
+    "title": "Death and the Maiden",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A maiden sitting in a pond, next to a half-submerged skeleton. Death and the Maiden was a common motif in Renaissance art, ultimately derived from the Medieval genre Dance of Death.",
+    "image": "image-19.webp",
+    "filename": "audio-19.mp3"
+  },
+
+  "20": {
+    "title": "Fighters",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "Two men poised to fight. The fighters are from the video game The Way of the Exploding Fist. The backdrop is based on the painting Indian Summer, Vermont by Willard Metcalf.",
+    "image": "image-20.webp",
+    "filename": "audio-20.mp3"
+  },
+
+  "21": {
+    "title": "Change of set",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A person changing clothes in front of some set pieces, including a contrasting gloomy mountain and a sunny countryside. The figure is based on the person changing clothes from The Baptism of Christ by Piero della Francesca.",
+    "image": "image-21.webp",
+    "filename": "audio-21.mp3"
+  },
+
+  "22": {
+    "title": "Mortal Coil",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "Bruno Martinez from the adventure video game Grim Fandango.",
+    "image": "image-22.webp",
+    "filename": "audio-22.mp3"
+  },
+
+  "23": {
+    "title": "Kong",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A paper-looking screenshot of the level 100m from the ColecoVision port of the arcade video game Donkey Kong.",
+    "image": "image-23.webp",
+    "filename": "audio-23.mp3"
+  },
+
+  "24": {
+    "title": "Pointer",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A fighter from the game The Way of the Exploding Fist in a fighting stance touching a large hand. It could also be interpreted as a play on Michelangelo's famous painting The Creation of Adam. The hand is the artist's own. The scenery is based on the painting Winter Landscape with Church by Caspar David Friedrich.",
+    "image": "image-24.webp",
+    "filename": "audio-24.mp3"
+  },
+
+  "25": {
+    "title": "Skull On Fire",
+    "artist": "by Kristoffer Zetterstrand",
+    "description": "A skull on fire; in the background, there is a moon in a clear night sky. This painting is based on a Minecraft screenshot, with the grass block and the three-dimensional skull added on top.",
+    "image": "image-25.webp",
+    "filename": "audio-25.mp3"
+  }
+
+}
